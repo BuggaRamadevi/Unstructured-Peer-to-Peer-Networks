@@ -1,2 +1,1 @@
-# Unstructured-Peer-to-Peer-Network-
-Sharing Contents in an Unstructured P2P Network 
+Designed overlay solutions for searching contents in 20, 40 and 80 nodes using socket programming and multi-threading.
